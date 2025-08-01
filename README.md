@@ -60,8 +60,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/personal-finance-copilot.git
-   cd personal-finance-copilot
+   git clone https://github.com/Nahid305/Personal-Finance-Co-Pilot.git
+   cd Personal-Finance-Co-Pilot
    ```
 
 2. **Install dependencies:**
@@ -272,8 +272,8 @@ SUPPORTED_CURRENCIES = {
 
 ### **Local Development**
 ```bash
-git clone https://github.com/yourusername/personal-finance-copilot.git
-cd personal-finance-copilot
+git clone https://github.com/Nahid305/Personal-Finance-Co-Pilot.git
+cd Personal-Finance-Co-Pilot
 pip install -r requirements.txt
 cp .env.example .env
 # Edit .env with your bot token
